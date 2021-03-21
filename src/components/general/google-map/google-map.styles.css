@@ -1,0 +1,41 @@
+.price-marker {
+  /* padding: 7.5px 10px; */
+  min-width: 60px;
+  min-height: 30px;
+  border-radius: 8px;
+  align-items: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.075rem;
+
+  background-color: white;
+  color: #0D2434;
+
+  box-shadow: 0px 0px 5px 0px rgba(13, 36, 52,0.8);
+}
+
+.price-marker-selected {
+  background-color: #ff5700;
+  color: white;
+  font-weight: 600;
+  min-width: 70px;
+  min-height: 40px;
+  animation: pulse 2.5s infinite ease;
+}
+
+.price-marker-hover {
+  background-color: rgba(150,100,200);
+  color: white;
+  font-weight: 700;
+}
+
+@keyframes pulse {
+  0% {
+    filter: brightness(1);
+  }
+  50% {
+    filter: brightness(1.5);
+  }
+  100% {
+    filter: brightness(1);
+  }
+}

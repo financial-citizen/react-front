@@ -1,0 +1,38 @@
+.dash-page {
+  width: 100vw;
+  height: 90vh;
+}
+
+.dash-nav-box {
+  width: 15%;
+  height: 90vh;
+  margin-top: 10vh;
+}
+
+.dash-nav-button {
+  width: 100%;
+  height: 120px;
+}
+
+.dash-nav-button svg {
+  width: 30px;
+  margin-bottom: 15px;
+  align-self: center;
+}
+
+.dash-nav-text {
+  text-align: center;
+}
+
+.selected {
+  background-color: grey;
+}
+
+.dash-nav-box-options {
+ height: 100%;
+}
+
+.dash-content {
+  width: 85%;
+  height: 100%;
+}

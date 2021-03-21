@@ -1,0 +1,10 @@
+
+.empty-state {
+  min-height: 50vh;
+  padding: 10% 0 5% 0;
+
+  .empty-state-content {
+    height: 40vh;
+    margin-bottom: 10vh;
+  }
+}

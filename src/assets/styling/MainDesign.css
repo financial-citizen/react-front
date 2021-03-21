@@ -1,0 +1,27 @@
+
+/* Icons */
+
+/* ******************************************* */
+/* Brand */
+
+  /* Text */
+
+  .light-text {
+    color: white;
+  }
+
+  .darker-text {
+    color: #78879A;
+  }
+
+  .darkest-text {
+    color: #000;
+  }
+
+  .row-holder {
+    padding: 5px 0;
+  }
+
+  .highlight-text {
+    color: #05c446;
+  }

@@ -1,0 +1,20 @@
+
+
+.user-form-container {
+  width: 100%;
+}
+
+.input-box {
+  padding: 1% 0;
+}
+
+.input-box label {
+  text-align: left;
+  margin-bottom: 7.5px;
+  letter-spacing: 0.07em;
+}
+
+.input-box input {
+  padding: 7.5px;
+  border-radius: 7.5px;
+}
